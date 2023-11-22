@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OnlineQuiz/static/css/main.6e26fabb.css",
+    "main.js": "/OnlineQuiz/static/js/main.3c865822.js",
+    "static/media/BadaBoomBB.woff": "/OnlineQuiz/static/media/BadaBoomBB.6c51309875e67c36278c.woff",
+    "static/media/BadaBoomBB.woff2": "/OnlineQuiz/static/media/BadaBoomBB.e8ed0ab9fcfc8b316db7.woff2",
+    "index.html": "/OnlineQuiz/index.html",
+    "main.6e26fabb.css.map": "/OnlineQuiz/static/css/main.6e26fabb.css.map",
+    "main.3c865822.js.map": "/OnlineQuiz/static/js/main.3c865822.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e26fabb.css",
+    "static/js/main.3c865822.js"
+  ]
+}
