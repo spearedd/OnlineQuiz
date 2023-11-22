@@ -16,6 +16,5 @@
   "theme_color": "#b55400",
   "background_color": "#b55400",
   "display": "standalone",
-  "start_url": "/OnlineQuiz/",
-  "scope": "."
+  "start_url": "."
 }
