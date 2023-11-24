@@ -4,5 +4,6 @@
     "name": "Application-1",
     "location": "IE",
     "provider_region": "aws-eu-west-1",
-    "deployment_model": "LOCAL"
+    "deployment_model": "LOCAL",
+    "environment": "production"
 }
