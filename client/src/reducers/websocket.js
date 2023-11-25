@@ -1,4 +1,4 @@
-import {produce} from 'immer';
+import { produce } from 'immer';
 
 // actions are handled by socketMiddleware
 export const wsConnect = (ping = false) => ({ type: 'WS_CONNECT', ping });
@@ -13,6 +13,7 @@ export const wsCrash = () => ({ type: 'WS_CRASH' });
 
 const websocketReducer = produce(
   (draft, action) => {
+    console.log("WSR : " + action.type)
     switch (action.type) {
       case 'WS_CONNECTED':
         draft.connected = true;

@@ -26,6 +26,7 @@ const socketMiddleware = () => {
 
   const onMessage = store => ({ data }) => {
     const state = store.getState();
+    console.log("Message sent : " + data)
     switch (data) {
       case 'TEAM_APPLIED':
         store.dispatch(fetchTeamApplications(state.quizzMasterApp.roomCode));
@@ -77,6 +78,7 @@ const socketMiddleware = () => {
 
   // the middleware part of this function
   return store => next => action => {
+    console.log("Web service action : " + action.type)
     switch (action.type) {
       case 'WS_CONNECT':
         store.dispatch(wsConnecting());

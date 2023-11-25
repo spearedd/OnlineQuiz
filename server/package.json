@@ -8,6 +8,7 @@
   "contributors": [],
   "scripts": {
     "dev": "nodemon ./src/index.js",
+    "build": "react-scripts build",
     "seed": "node ./src/cmd/seed",
     "start": "node ./src/index.js"
   },
@@ -16,13 +17,15 @@
     "connect-mongo": "^3.0.0",
     "cors": "^2.8.5",
     "dot-prop": ">=5.1.1",
-    "dotenv": "^8.1.0",
+    "dotenv": "^8.6.0",
     "express": "^4.17.1",
     "express-session": "^1.17.0",
     "kind-of": ">=6.0.3",
     "minimist": ">=1.2.3",
     "mongodb": "^6.3.0",
     "mongoose": "^5.7.5",
+    "react": "^18.2.0",
+    "react-scripts": "^3.0.1",
     "ws": "^7.2.0"
   },
   "devDependencies": {

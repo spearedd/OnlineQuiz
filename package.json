@@ -1,5 +1,4 @@
 {
-  "homepage": "https://spearedd.github.io/OnlineQuiz/",
   "dependencies": {
     "gh-pages": "^6.1.0",
     "mongodb": "^6.3.0"
