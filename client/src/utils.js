@@ -1,8 +1,10 @@
 export const checkFetchError = async response => {
   const json = await response.json();
   if (response.ok) {
+    console.log("API resonse ok")
     return json;
   }
+  console.log("API resonse not ok")
   return Promise.reject(new Error(json.message));
 };
 

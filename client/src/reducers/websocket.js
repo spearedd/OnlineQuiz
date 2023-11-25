@@ -13,7 +13,6 @@ export const wsCrash = () => ({ type: 'WS_CRASH' });
 
 const websocketReducer = produce(
   (draft, action) => {
-    console.log("WSR : " + action.type)
     switch (action.type) {
       case 'WS_CONNECTED':
         draft.connected = true;
