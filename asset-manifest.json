@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e07d7160.css",
-    "main.js": "/static/js/main.b1887069.js",
-    "static/media/BadaBoomBB.woff": "/static/media/BadaBoomBB.6c51309875e67c36278c.woff",
-    "static/media/BadaBoomBB.woff2": "/static/media/BadaBoomBB.e8ed0ab9fcfc8b316db7.woff2",
-    "index.html": "/index.html",
-    "main.e07d7160.css.map": "/static/css/main.e07d7160.css.map",
-    "main.b1887069.js.map": "/static/js/main.b1887069.js.map"
+    "main.css": "/spearedd/OnlineQuiz/static/css/main.632d476f.css",
+    "main.js": "/spearedd/OnlineQuiz/static/js/main.998148f2.js",
+    "static/media/BadaBoomBB.woff": "/spearedd/OnlineQuiz/static/media/BadaBoomBB.6c51309875e67c36278c.woff",
+    "static/media/BadaBoomBB.woff2": "/spearedd/OnlineQuiz/static/media/BadaBoomBB.e8ed0ab9fcfc8b316db7.woff2",
+    "index.html": "/spearedd/OnlineQuiz/index.html",
+    "main.632d476f.css.map": "/spearedd/OnlineQuiz/static/css/main.632d476f.css.map",
+    "main.998148f2.js.map": "/spearedd/OnlineQuiz/static/js/main.998148f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.e07d7160.css",
-    "static/js/main.b1887069.js"
+    "static/css/main.632d476f.css",
+    "static/js/main.998148f2.js"
   ]
 }
