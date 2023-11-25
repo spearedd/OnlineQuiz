@@ -1,19 +1,6 @@
 {
   "name": "Quizzer",
   "short_name": "Quizzer",
-  "files": {
-    "main.css": "/OnlineQuiz/static/css/main.6e26fabb.css",
-    "main.js": "/OnlineQuiz/static/js/main.998148f2.js",
-    "static/media/BadaBoomBB.woff": "/OnlineQuiz/static/media/BadaBoomBB.6c51309875e67c36278c.woff",
-    "static/media/BadaBoomBB.woff2": "/OnlineQuiz/static/media/BadaBoomBB.e8ed0ab9fcfc8b316db7.woff2",
-    "index.html": "/OnlineQuiz/index.html",
-    "main.6e26fabb.css.map": "/OnlineQuiz/static/css/main.6e26fabb.css.map",
-    "main.998148f2.js.map": "/OnlineQuiz/static/js/main.998148f2.js.map"
-  },
-  "entrypoints": [
-    "/OnlineQuiz/static/css/main.6e26fabb.css",
-    "/OnlineQuiz/static/js/main.998148f2.js"
-  ],
   "icons": [
     {
       "src": "/OnlineQuiz/android-chrome-192x192.png",
