@@ -9,7 +9,7 @@
     "main.998148f2.js.map": "/OnlineQuiz/static/js/main.998148f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e26fabb.css",
-    "static/js/main.998148f2.js"
+    "/OnlineQuiz/static/css/main.6e26fabb.css",
+    "/OnlineQuiz/static/js/main.998148f2.js"
   ]
 }
