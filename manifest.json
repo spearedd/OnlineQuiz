@@ -1,14 +1,27 @@
 {
   "name": "Quizzer",
   "short_name": "Quizzer",
+  "files": {
+    "main.css": "/OnlineQuiz/static/css/main.6e26fabb.css",
+    "main.js": "/OnlineQuiz/static/js/main.998148f2.js",
+    "static/media/BadaBoomBB.woff": "/OnlineQuiz/static/media/BadaBoomBB.6c51309875e67c36278c.woff",
+    "static/media/BadaBoomBB.woff2": "/OnlineQuiz/static/media/BadaBoomBB.e8ed0ab9fcfc8b316db7.woff2",
+    "index.html": "/OnlineQuiz/index.html",
+    "main.6e26fabb.css.map": "/OnlineQuiz/static/css/main.6e26fabb.css.map",
+    "main.998148f2.js.map": "/OnlineQuiz/static/js/main.998148f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e26fabb.css",
+    "static/js/main.998148f2.js"
+  ]
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "OnlineQuiz/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-256x256.png",
+      "src": "OnlineQuiz/android-chrome-256x256.png",
       "sizes": "256x256",
       "type": "image/png"
     }
@@ -16,5 +29,5 @@
   "theme_color": "#b55400",
   "background_color": "#b55400",
   "display": "standalone",
-  "start_url": "."
+  "start_url": "OnlineQuiz"
 }
