@@ -1,0 +1,9 @@
+{
+    "app_id": "application-1-ewuhg",
+    "config_version": 20210101,
+    "name": "Application-1",
+    "location": "IE",
+    "provider_region": "aws-eu-west-1",
+    "deployment_model": "LOCAL",
+    "environment": "production"
+}
