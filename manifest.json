@@ -11,8 +11,8 @@
     "main.998148f2.js.map": "/OnlineQuiz/static/js/main.998148f2.js.map"
   },
   "entrypoints": [
-    "OnlineQuiz/static/css/main.6e26fabb.css",
-    "OnlineQuiz/static/js/main.998148f2.js"
+    "/OnlineQuiz/static/css/main.6e26fabb.css",
+    "/OnlineQuiz/static/js/main.998148f2.js"
   ],
   "icons": [
     {
@@ -29,5 +29,6 @@
   "theme_color": "#b55400",
   "background_color": "#b55400",
   "display": "standalone",
-  "start_url": "."
+  "start_url": "./",
+  "scope": "."
 }
