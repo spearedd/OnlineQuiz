@@ -1,4 +1,4 @@
-*.js.map
+/*/*.js.map
 *.ts
 .git*
 .vscode
@@ -7,4 +7,4 @@ __blobstorage__
 __queuestorage__
 local.settings.json
 test
-tsconfig.json
+tsconfig.json*/
